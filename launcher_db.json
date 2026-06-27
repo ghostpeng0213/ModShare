@@ -3,7 +3,7 @@
     "serverIp": "play.semicolon-mc.com",
     "serverPort": 25565,
     "minecraftVersion": "1.21.1",
-    "modLoader": "Fabric (v0.16.10)",
+    "modLoader": "Fabric (v0.19.3)",
     "javaVersion": "Java 21 (or newer)",
     "recommendedRam": "4GB",
     "serverStatus": "offline",
