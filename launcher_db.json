@@ -1,0 +1,173 @@
+{
+  "serverConfig": {
+    "serverIp": "play.semicolon-mc.com",
+    "serverPort": 25565,
+    "minecraftVersion": "1.21.1",
+    "modLoader": "Fabric (v0.16.10)",
+    "javaVersion": "Java 21 (or newer)",
+    "recommendedRam": "4GB",
+    "serverStatus": "offline",
+    "playersOnline": 0,
+    "maxPlayers": 50,
+    "motd": "§b.semicolon §fSurvival & Tech Server §a[v1.0] §e[Fabric 1.21.1]",
+    "lastUpdated": "2026-06-27T07:54:39.015Z"
+  },
+  "modsList": [
+    {
+      "id": "1",
+      "name": "Sodium",
+      "version": "0.6.13",
+      "type": "required",
+      "category": "performance",
+      "description": "Modern rendering engine that significantly improves frame rates and stuttering.",
+      "size": "1.24 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "fileName": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "name": "Lithium",
+      "version": "0.15.3",
+      "type": "required",
+      "category": "performance",
+      "description": "General-purpose physics, chunk loading, and AI optimization mod.",
+      "size": "0.76 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+      "fileName": "lithium-fabric-0.15.3+mc1.21.1.jar",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "name": "Iris Shaders",
+      "version": "1.8.8",
+      "type": "optional",
+      "category": "graphics",
+      "description": "Modern shaders mod compatible with Sodium, providing beautiful visuals.",
+      "size": "2.57 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+      "fileName": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "name": "Indium",
+      "version": "1.0.35",
+      "type": "required",
+      "category": "performance",
+      "description": "Implementation of the Fabric Rendering API for Sodium, required by many visual mods.",
+      "size": "0.10 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar",
+      "fileName": "indium-1.0.35+mc1.21.jar",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "name": "Just Enough Items (JEI)",
+      "version": "19.27.0.343",
+      "type": "required",
+      "category": "utility",
+      "description": "In-game item and recipe viewer database.",
+      "size": "1.49 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xDRMWy9z/jei-1.21.1-fabric-19.27.0.343.jar",
+      "fileName": "jei-1.21.1-fabric-19.27.0.343.jar",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "name": "Fabric API",
+      "version": "0.116.12+1.21.1",
+      "type": "required",
+      "category": "utility",
+      "description": "Core API library for the Fabric toolchain, required by almost all Fabric mods.",
+      "size": "2.31 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Lwt6YYHL/fabric-api-0.116.12%2B1.21.1.jar",
+      "fileName": "fabric-api-0.116.12+1.21.1.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782547377409",
+      "name": "FarmersDelight",
+      "version": "3.3.3",
+      "type": "required",
+      "category": "content",
+      "description": "농사 + 요리 추가 모드",
+      "size": "3MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/7vxePowz/versions/NCLOIK5z/FarmersDelight-1.21.1-3.3.3%2Brefabricated.jar?mr_download_reason=standalone",
+      "fileName": "FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782547489237",
+      "name": "voicechat",
+      "version": "2.6.20",
+      "type": "required",
+      "category": "utility",
+      "description": "인게임 음성 채팅 모드",
+      "size": "5.2MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/IttovdN3/voicechat-fabric-1.21.1-2.6.20.jar?mr_download_reason=standalone",
+      "fileName": "voicechat-fabric-1.21.1-2.6.20.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782547546696",
+      "name": "handcrafted",
+      "version": "4.0.3",
+      "type": "required",
+      "category": "content",
+      "description": "가구 모드",
+      "size": "6.9MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar?mr_download_reason=standalone",
+      "fileName": "handcrafted-fabric-1.21.1-4.0.3.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782547660323",
+      "name": "armourersworkshop",
+      "version": "3.4.0",
+      "type": "required",
+      "category": "content",
+      "description": "플레이어 스킨, 무기 및 장비를 직접 3D로 제작하고 꾸밀 수 있는 모드입니다.",
+      "size": "6.6 MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/y4JF3gXL/versions/A4FtdCb4/armourersworkshop-fabric-1.21.1-3.4.0-beta.2.jar?mr_download_reason=standalone",
+      "fileName": "armourersworkshop-fabric-1.21.1-3.4.0-beta.2.jar",
+      "enabled": false
+    },
+    {
+      "id": "1782547775475",
+      "name": "emotecraft",
+      "version": "2.4.12",
+      "type": "required",
+      "category": "content",
+      "description": "캐릭터 이모티콘 표현 모드",
+      "size": "0.8MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar?mr_download_reason=standalone",
+      "fileName": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782547840690",
+      "name": "CustomNPCs",
+      "version": "Unofficial",
+      "type": "required",
+      "category": "content",
+      "description": "상점 npc 추가 모드",
+      "size": "12MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/vFAmwl6B/versions/5vYVgtPS/CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar?mr_download_reason=standalone",
+      "fileName": "CustomNPCs-Unofficial-Fabric-1.21.1.20260124.jar",
+      "enabled": true
+    },
+    {
+      "id": "1782549250840",
+      "name": "resourcefullib",
+      "version": "3.0.10",
+      "type": "required",
+      "category": "core",
+      "description": "가구모드 추가 설치 모드",
+      "size": "0.4MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Qq8o6KAr/resourcefullib-fabric-1.21-3.0.10.jar?mr_download_reason=standalone",
+      "fileName": "resourcefullib-fabric-1.21-3.0.10.jar",
+      "enabled": true
+    }
+  ]
+}
