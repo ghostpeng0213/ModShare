@@ -204,6 +204,18 @@
       "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar?mr_download_reason=standalone",
       "fileName": "cloth-config-15.0.140-fabric.jar",
       "enabled": true
+    },
+    {
+      "id": "1782569250840",
+      "name": "e4mc",
+      "version": "6.2.0",
+      "type": "required",
+      "category": "utility",
+      "description": "간편 멀티",
+      "size": "1.1MB",
+      "downloadUrl": "https://cdn.modrinth.com/data/qANg5Jrr/versions/pS69vPZg/e4mc-fabric-6.2.0.jar?mr_download_reason=standalone",
+      "fileName": "e4mc-fabric-6.2.0.jar",
+      "enabled": true
     }
   ]
 }
